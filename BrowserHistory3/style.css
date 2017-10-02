@@ -1,44 +1,6 @@
 body{
-  color:darkblue;
-  font-family: 'Oswald', sans-serif;
-  background-color:ivory;
-  margin:10px 50px 10px 50px;
+  margin-top:50px;
 }
-p{
-  font-family: 'Open Sans', sans-serif;
-}
-img{
-  float: left;
-  margin-right:10px;
-}
-
-#navbar ul{
-  list-style-type:none;
-  margin:0;
-  padding:0;
-}
-#navbar li{
-  display:inline;
-}
-#navbar a{
-  margin-left: 75px;
-  margin-right: 75px;
-}
-
-.left{
-  float:left;
-  width:300px;
-  padding: 1cm;
-}
-
-.right{
-  float:right;
-  width:300px;
-  padding: 1cm;
-}
-
-.center{
-  margin-right:300px;
-  margin-left: 300px;
-  padding: 1cm;
+h1{
+  color:#4183C4;
 }
